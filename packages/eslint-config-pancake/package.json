@@ -1,6 +1,6 @@
 {
   "name": "@btcb-toolkit/eslint-config-pancake",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Eslint config for BTCB",
   "main": "lib/index.js",
   "files": [
