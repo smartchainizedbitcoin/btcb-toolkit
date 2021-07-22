@@ -1,5 +1,5 @@
 {
-  "name": "@bitcoinBinanced/uikit",
+  "name": "@btcb-toolkit/uikit",
   "version": "0.1.0",
   "description": "Set of UI components for btcb projects",
   "main": "dist/index.cjs.js",

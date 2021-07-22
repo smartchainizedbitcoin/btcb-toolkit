@@ -1,5 +1,5 @@
 {
-  "name": "@bitcoinBinanced/eslint-config-pancake",
+  "name": "@btcb-toolkit/eslint-config-pancake",
   "version": "0.1.0",
   "description": "Eslint config for BTCB",
   "main": "lib/index.js",
