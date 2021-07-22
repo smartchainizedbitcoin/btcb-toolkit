@@ -1,7 +1,7 @@
 {
-  "name": "btcb-toolkit",
-  "version": "1.0.0",
-  "description": "btcb frontend packages",
+  "name": "pancake-toolkit",
+  "version": "0.1.0",
+  "description": "BTCB frontend packages",
   "private": true,
   "workspaces": [
     "packages/*"
