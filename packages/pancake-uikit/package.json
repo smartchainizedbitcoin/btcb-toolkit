@@ -6,7 +6,7 @@
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "files": [
-    "dist"
+    "dist" 
   ],
   "repository": "https://github.com/smartchainizedbitcoin/btcb-toolkit/tree/main/packages/pancake-uikit",
   "license": "MIT",
